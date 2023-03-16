@@ -74,6 +74,7 @@ Environments:
 
 - https://dsn.adobe.com/web/cdp-mop-c (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
+- https://dsn.adobe.com/cx/cdp-mop-c-cx (call center)
 - https://docs.adobedemo.com/projects/public-projects/carvelo/web 
 
 ### Scenario D: City Signal (Telco)
