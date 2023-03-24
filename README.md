@@ -111,6 +111,7 @@ Environments:
 * When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
 * If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
 * Use this guide for quick ingestion of CRM-like data: https://docs.adobesandbox.com/comprehensive-technical-tutorial-archive/module2/ex4
+* Create new segments as early as possible (might take 15-20 mins before they start qualifying profiles)
 
 ## Agenda
 
